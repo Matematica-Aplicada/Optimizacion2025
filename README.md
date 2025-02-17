@@ -1,7 +1,5 @@
-# Optimizacion2025
-Materiales para la cursada de Optimización DM-UBA 2025
-
-Iremos subiendo aquí algunos materiales para la cursada.
+# Optimizacion 2025
+Iremos subiendo aquí algunos materiales para la cursada de Optimización DM-UBA 2025.
 
 ## Foro
 
@@ -34,3 +32,11 @@ El programa "oficial" de la materia puede consultarse [aquí](https://web.dm.uba
 
 Utilizaremos principalmente el lenguaje de programación [Julia](https://julialang.org/), donde utilizaremos paquetes como [JuMP](https://jump.dev/JuMP.jl/stable/), y algunos de los mencionados en [JuliaDiff](https://juliadiff.org/) sobre diferenciación automática, aunque son bienvenidas las discusiones sobre cómo se comparan estas herramientas con las disponibles en Python. Un buen lugar para estas discusiones es el foro.
 
+## Bibliografía
+
+La materia contará con un apunte para las clases teóricas, que se irá actualizando a medida que transcurra el cuatrimestre. 
+
+Como material preliminar, se puede ir consultando:
+- [Numerical Optimization, Nocedal & Wright](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
+- [Convex Optimization, Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [Optimization for Machine Learning, Gabriel Peyre](https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf)
