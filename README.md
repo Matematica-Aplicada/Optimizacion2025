@@ -17,15 +17,15 @@ El foro puede servir para tener discusiones sobre la materia que no pueden ser r
 
 El programa "oficial" de la materia puede consultarse [aquí](https://web.dm.uba.ar/index.php/docencia/materias/programas/298-optimizacion). Sin embargo, hay algunas cuestiones desactualizadas en ese documento. Se resumen aquí los principales temas de la materia:
 
-### Optimización no-lineal sin restricciones
+#### Optimización no-lineal sin restricciones
 
-### Convexidad y optimización sobre conjuntos convexos
+#### Convexidad y optimización sobre conjuntos convexos
 
-### Teoría de Multiplicadores de Lagrange y KKT
+#### Teoría de Multiplicadores de Lagrange y KKT
 
-### Temas de optimización global
+#### Temas de optimización global
 
-### Temas de optimización combinatoria
+#### Temas de optimización combinatoria
 
 
 ## Programación
@@ -36,7 +36,7 @@ Utilizaremos principalmente el lenguaje de programación [Julia](https://juliala
 
 La materia contará con un apunte para las clases teóricas, que se irá actualizando a medida que transcurra el cuatrimestre. 
 
-Como material preliminar, se puede ir consultando:
+Como material sugerido también pueden consultar:
 - [Numerical Optimization, Nocedal & Wright](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
-- [Convex Optimization, Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 - [Optimization for Machine Learning, Gabriel Peyre](https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf)
+- [Convex Optimization, Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
