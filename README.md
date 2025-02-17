@@ -21,12 +21,11 @@ El programa "oficial" de la materia puede consultarse [aquí](https://web.dm.uba
 
 #### Convexidad y optimización sobre conjuntos convexos
 
-#### Teoría de Multiplicadores de Lagrange y KKT
-
-#### Temas de optimización global
+#### Optimización no-lineal con restricciones de igualdad y desigualdad
 
 #### Temas de optimización combinatoria
 
+#### Algoritmos no-determinísticos
 
 ## Programación
 
