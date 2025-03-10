@@ -29,7 +29,10 @@ El programa "oficial" de la materia puede consultarse [aquí](https://web.dm.uba
 
 ## Programación
 
-Utilizaremos principalmente el lenguaje de programación [Julia](https://julialang.org/), donde utilizaremos paquetes como [JuMP](https://jump.dev/JuMP.jl/stable/), y algunos de los mencionados en [JuliaDiff](https://juliadiff.org/) sobre diferenciación automática, aunque son bienvenidas las discusiones sobre cómo se comparan estas herramientas con las disponibles en Python. Un buen lugar para estas discusiones es el foro.
+Utilizaremos principalmente el lenguaje de programación [Julia](https://julialang.org/), donde utilizaremos paquetes como [JuMP](https://jump.dev/JuMP.jl/stable/), y algunos de los mencionados en [JuliaDiff](https://juliadiff.org/) sobre diferenciación automática, aunque son bienvenidas las discusiones sobre cómo se comparan estas herramientas con las disponibles en Python. Un buen lugar para estas discusiones es el foro. Dejamos a continuación dos tutoriales sobre Julia.
+
+* [Tutorial creado por Martín Maas](https://www.matecdev.com/posts/julia-tutorial-science-engineering.html)
+* [Curso dictado por Ignacio Ojea](https://www.matecdev.com/posts/julia-tutorial-science-engineering.html)
 
 ## Bibliografía
 
