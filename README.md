@@ -28,11 +28,13 @@ Como material sugerido también pueden consultar:
 - [Convex Optimization, Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 
-## Guías de ejercicios teóricos y de laboratorio
-
-Ya tenemos las primeras guías disponibles:
+## Guías de ejercicios 
 
 - [Práctica 1](/practica1.pdf)
+
+
+## Guías de laboratorio
+
 - [Laboratorio 1](/labo1.pdf)
 
 
