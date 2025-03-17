@@ -1,5 +1,5 @@
 # Optimizacion 2025
-Iremos subiendo aquí algunos materiales para la cursada de Optimización DM-UBA 2025.
+Aquí iremos subiendo algunos materiales para la cursada de Optimización DM-UBA 2025.
 
 ## Foro
 
@@ -13,19 +13,25 @@ El foro puede servir para tener discusiones sobre la materia que no pueden ser r
 * Dudas sobre cómo usar Github.
 * Para empezar, se pueden presentar diciendo nombre y colegio :-)
 
-## Programa
+## Programa y Bibliografía
 
-El programa "oficial" de la materia puede consultarse [aquí](https://web.dm.uba.ar/index.php/docencia/materias/programas/298-optimizacion). Sin embargo, hay algunas cuestiones desactualizadas en ese documento. Se resumen aquí los principales temas de la materia:
+El programa oficial de la materia puede consultarse [aquí](https://web.dm.uba.ar/index.php/docencia/materias/programas/298-optimizacion). Sin embargo, hay algunas cuestiones desactualizadas en ese documento. 
 
-#### Optimización no-lineal sin restricciones
+La materia contará con un apunte para las clases teóricas, que se irá actualizando a medida que transcurra el cuatrimestre. 
 
-#### Convexidad y optimización sobre conjuntos convexos
+- 
 
-#### Optimización no-lineal con restricciones de igualdad y desigualdad
 
-#### Temas de optimización combinatoria
+Como material sugerido también pueden consultar:
+- [Numerical Optimization, Nocedal & Wright](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
+- [Optimization for Machine Learning, Gabriel Peyre](https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf)
+- [Convex Optimization, Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
-#### Algoritmos no-determinísticos
+
+## Guías de ejercicios teóricos y de laboratorio
+
+
+
 
 ## Programación
 
@@ -34,11 +40,3 @@ Utilizaremos principalmente el lenguaje de programación [Julia](https://juliala
 * [Tutorial creado por Martín Maas](https://www.matecdev.com/posts/julia-tutorial-science-engineering.html)
 * [Curso dictado por Ignacio Ojea](https://iojea.github.io/curso-julia/)
 
-## Bibliografía
-
-La materia contará con un apunte para las clases teóricas, que se irá actualizando a medida que transcurra el cuatrimestre. 
-
-Como material sugerido también pueden consultar:
-- [Numerical Optimization, Nocedal & Wright](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
-- [Optimization for Machine Learning, Gabriel Peyre](https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf)
-- [Convex Optimization, Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
