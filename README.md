@@ -27,6 +27,8 @@ Como material sugerido también pueden consultar:
 - [Optimization for Machine Learning, Gabriel Peyre](https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf)
 - [Convex Optimization, Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
+En la siguiente [carpeta](/material_practicas/) podrán encontrar material útil de las clases prácticas.
+
 
 ## Guías de ejercicios 
 
