@@ -29,6 +29,7 @@ Como material sugerido también pueden consultar:
 
 En la siguiente [carpeta](/material_practicas/) podrán encontrar material útil de las clases prácticas.
 
+En la carpeta [papers y notas](/papers y notas/) iremos dejando material sobre temas de estudio adicionales y aplicaciones.
 
 ## Guías de ejercicios 
 
