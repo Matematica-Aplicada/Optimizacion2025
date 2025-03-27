@@ -39,6 +39,7 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 ## Guías de laboratorio
 
 - [Laboratorio 1](/labo1.pdf)
+- [Laboratorio 2](/labo2.pdf)
 
 
 ## Programación
