@@ -34,6 +34,7 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 ## Guías de ejercicios 
 
 - [Práctica 1](/practica1.pdf)
+- [Práctica 2](/practica2.pdf)
 
 
 ## Guías de laboratorio
