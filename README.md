@@ -19,7 +19,7 @@ El programa oficial de la materia puede consultarse [aquí](https://web.dm.uba.a
 
 La materia contará con un apunte para las clases teóricas, que se irá actualizando a medida que transcurra el cuatrimestre. 
 
-- [Apunte de las clases teóricas v 0.1](/apunte_teoricas_0.1.pdf)
+- [Apunte de las clases teóricas v 0.1](/apunte_teoricas_0.15.pdf.pdf)
 
 
 Como material sugerido también pueden consultar:
