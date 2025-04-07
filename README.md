@@ -43,6 +43,12 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 - [Laboratorio 2](/labo2.pdf)
 
 
+## Entregas
+
+Las entregas se realizarán a través de github Classroom.
+
+- [Entrega N°1](/entrega1.pdf)
+
 ## Programación
 
 Utilizaremos principalmente el lenguaje de programación [Julia](https://julialang.org/), donde utilizaremos paquetes como [JuMP](https://jump.dev/JuMP.jl/stable/), y algunos de los mencionados en [JuliaDiff](https://juliadiff.org/) sobre diferenciación automática, aunque son bienvenidas las discusiones sobre cómo se comparan estas herramientas con las disponibles en Python. Un buen lugar para estas discusiones es el foro. Dejamos a continuación dos tutoriales sobre Julia.
