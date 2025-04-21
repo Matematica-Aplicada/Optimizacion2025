@@ -42,6 +42,7 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 
 - [Laboratorio 1](/labo1.pdf)
 - [Laboratorio 2](/labo2.pdf)
+- [Laboratorio 3](/labo3.pdf)
 
 
 ## Entregas
