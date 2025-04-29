@@ -36,6 +36,7 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 - [Práctica 1](/practica1.pdf)
 - [Práctica 2](/practica2.pdf)
 - [Práctica 3](/practica3.pdf)
+- [Práctica 4](/practica4.pdf)
 
 
 ## Guías de laboratorio
@@ -43,6 +44,7 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 - [Laboratorio 1](/labo1.pdf)
 - [Laboratorio 2](/labo2.pdf)
 - [Laboratorio 3](/labo3.pdf)
+- [Laboratorio 4](/labo4.pdf)
 
 
 ## Entregas
@@ -50,6 +52,7 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 Las entregas se realizarán a través de github Classroom.
 
 - [Entrega N°1](/entrega1.pdf) Fecha de límite: 22/4
+- [Entrega N°2](/entrega2.pdf) Fecha de límite: a determinar
 
 ## Programación
 
