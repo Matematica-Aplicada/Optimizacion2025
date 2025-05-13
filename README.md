@@ -38,6 +38,12 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 - [Práctica 3](/practica3.pdf)
 - [Práctica 4](/practica4.pdf)
 
+## Parciales
+
+- Primer Parcial: Martes 20/5 9hs - Aula 1113 (0+inf)
+- Segundo Parcial: A confirmar
+- Primer Recuperatorio: A confirmar
+- Segundo Recuperatorio: A confirmar
 
 ## Guías de laboratorio
 
@@ -52,7 +58,7 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 Las entregas se realizarán a través de github Classroom.
 
 - [Entrega N°1](/entrega1.pdf) Fecha de límite: 22/4
-- [Entrega N°2](/entrega2.pdf) Fecha de límite: a determinar
+- [Entrega N°2](/entrega2.pdf) Fecha de límite: 27/5
 
 ## Programación
 
