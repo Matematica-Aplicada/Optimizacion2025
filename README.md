@@ -58,7 +58,7 @@ En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre t
 Las entregas se realizarán a través de github Classroom.
 
 - [Entrega N°1](/entrega1.pdf) Fecha de límite: 22/4
-- [Entrega N°2](/entrega2.pdf) Fecha de límite: 27/5
+- [Entrega N°2](/entrega2.pdf) Fecha de límite: 30/5
 
 ## Programación
 
