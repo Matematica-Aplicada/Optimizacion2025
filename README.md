@@ -31,6 +31,8 @@ En la siguiente [carpeta](/material_practicas/) podrán encontrar material útil
 
 En la carpeta [papers y notas](/papers_y_notas/) iremos dejando material sobre temas de estudio adicionales y aplicaciones.
 
+Finalmente, en el archivo [Ideas TP Final](/ideas_tp_final.pdf) hay un listado de temas posibles para la realización del Trabajo Práctico final. El mismo deberá realizarse, salvo exepciones, de manera individual, y consistirá en el estudio del problema, una cierta implementación, y una explicación de los fundamentos teóricos de la solución implementada y/o temas relacionados. Las consignas propuestas deben considerarse como un puntapié inicial para la definición de algunos posibles trabajos a realizar. 
+
 ## Guías de ejercicios 
 
 - [Práctica 1](/practica1.pdf)
