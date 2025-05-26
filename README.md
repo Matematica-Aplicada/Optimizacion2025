@@ -39,6 +39,7 @@ Finalmente, en el archivo [Ideas TP Final](/ideas_tp_final.pdf) hay un listado d
 - [Práctica 2](/practica2.pdf)
 - [Práctica 3](/practica3.pdf)
 - [Práctica 4](/practica4.pdf)
+- [Práctica 5](/practica5.pdf)
 
 ## Parciales
 
