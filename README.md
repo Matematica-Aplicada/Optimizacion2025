@@ -63,6 +63,7 @@ Las entregas se realizarán a través de github Classroom.
 
 - [Entrega N°1](/entrega1.pdf) Fecha de límite: 22/4
 - [Entrega N°2](/entrega2.pdf) Fecha de límite: 30/5
+- [Entrega N°3](/entrega3.pdf) Fecha de límite: 17/6
 
 ## Programación
 
