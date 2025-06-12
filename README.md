@@ -41,6 +41,7 @@ Finalmente, en el archivo [Ideas TP Final](/ideas_tp_final.pdf) hay un listado d
 - [Práctica 4](/practica4.pdf): KKT
 - [Práctica 5](/practica5.pdf): Gradiente Proyectado
 - [Práctica 6](/practica6.pdf): Subgradientes
+- [Práctica 7](/practica7.pdf): Métodos de punto interior
 
 ## Parciales
 
