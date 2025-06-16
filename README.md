@@ -26,6 +26,7 @@ Como material sugerido también pueden consultar:
 - [Numerical Optimization, Nocedal & Wright](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
 - [Optimization for Machine Learning, Gabriel Peyre](https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf)
 - [Convex Optimization, Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [Approximation Algorithms, Vijay V. Vazirani](https://ics.uci.edu/~vazirani/book.pdf)
 
 En la siguiente [carpeta](/material_practicas/) podrán encontrar material útil de las clases prácticas.
 
