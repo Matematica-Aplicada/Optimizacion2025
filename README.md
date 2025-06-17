@@ -45,6 +45,7 @@ Finalmente, en el archivo [Ideas TP Final](/ideas_tp_final.pdf) hay un listado d
 - [Práctica 5](/practica5.pdf): Gradiente Proyectado
 - [Práctica 6](/practica6.pdf): Subgradientes
 - [Práctica 7](/practica7.pdf): Métodos de punto interior
+- [Práctica 8](/practica8.pdf): Algoritmos aproximados
 
 ## Parciales
 
