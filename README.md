@@ -50,9 +50,9 @@ Finalmente, en el archivo [Ideas TP Final](/ideas_tp_final.pdf) hay un listado d
 ## Parciales
 
 - Primer Parcial: Martes 20/5 9hs - Aula 1113 (0+inf)
-- Segundo Parcial: A confirmar
-- Primer Recuperatorio: A confirmar
-- Segundo Recuperatorio: A confirmar
+- Segundo Parcial: Sábado 5/7 9hs - Aula 1204 (0+inf)
+- Primer Recuperatorio: Viernes 11/7 - Aula a confirmar
+- Segundo Recuperatorio: Viernes 18/7 - Aula a confirmar
 
 ## Guías de laboratorio
 
